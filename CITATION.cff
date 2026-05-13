@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: test-framework
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: John Andrew
+    family-names: Fozard
+    email: john.fozard@gmail.com
+    orcid: 'https://orcid.org/0000-0001-9181-8083'
+repository-code: 'https://github.com/jfozard/framework-test'
+url: 'https://github.com/jfozard/framework-test'
+license: BSD-3-Clause-Attribution
